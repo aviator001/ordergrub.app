@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="odoggys.ordergrub.app" version="32" versionCode="1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>SugarDaddyOne</name>
+    <name>OrderGrub</name>
     <description>
-A new experience from the pioneeers of sugar daddy dating - the first site based on disruptive technologies
+	The future of Food Ordering for Resturants and Food Trucks
 </description>
-    <author email="nick2874@hotmail.com" href="http://odoggys.ordergrub.app">		Free Sugar Daddy App Team
+    <author email="nick2874@hotmail.com" href="http://ordergrub.app/odoggys">
+	    Nicolas Danello
 	</author>
      <content src="index.html" />
     <access origin="*" />
@@ -77,10 +78,6 @@ A new experience from the pioneeers of sugar daddy dating - the first site based
                 </activity>
             </application>
             <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="28" />
-            <uses-permission android:name="android.permission.CAMERA" />
-            <uses-permission android:name="android.permission.MICROPHONE" />
-            <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
-	
         </manifest>
     </platform>
     <icon src="favicon.png" />	
